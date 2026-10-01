@@ -1,0 +1,395 @@
+{
+  "restaurant": "Wood & Smoke Co.",
+  "menuTitle": "The Gourmet Veg Menu",
+  "currency": "INR",
+  "vegetarianOnly": true,
+  "taxNote": "Government taxes as applicable",
+  "source": {
+    "type": "owner-supplied printed menu",
+    "images": [
+      "first_page_menu.png",
+      "second_page_menu.png"
+    ],
+    "transcribedOn": "2026-07-28",
+    "revisionDateVisible": false,
+    "reviewRequiredBeforeLaunch": true
+  },
+  "contact": {
+    "orderPhone": "+919988005945",
+    "displayPhone": "+91 99880 05945",
+    "address": "Shop No. 12, Mansarovar Complex, below O2 Gym, 22 No. Phatak, Bhupindra Road, Patiala"
+  },
+  "categories": [
+    {
+      "id": "gourmet-veggie-burgers",
+      "name": "Gourmet Veggie Burgers",
+      "notes": [
+        "Burgers are served with fries."
+      ],
+      "items": [
+        {
+          "id": "paneer-royal-stack",
+          "name": "The Paneer Royal Stack",
+          "description": "Grilled paneer patty paired with rich tandoori mayo.",
+          "price": 199
+        },
+        {
+          "id": "overloaded-cheese-burst",
+          "name": "The Overloaded Cheese Burst",
+          "description": "Golden cheese patty topped with molten cheese dip.",
+          "price": 209
+        },
+        {
+          "id": "garden-veggie-crunch",
+          "name": "Garden Veggie Crunch",
+          "description": "A spiced mix-veg patty dressed with tangy Thousand Island sauce.",
+          "price": 169
+        },
+        {
+          "id": "mushroom-fiesta",
+          "name": "Mushroom Fiesta",
+          "description": "Spiced veg patty layered with sauteed mushroom and a creamy jalapeno touch.",
+          "price": 179
+        },
+        {
+          "id": "smoky-grilled-paneer",
+          "name": "Smoky Grilled Paneer",
+          "description": "Marinated paneer slices grilled to perfection with chipotle sauce and sun-dried tomatoes.",
+          "price": 189
+        }
+      ]
+    },
+    {
+      "id": "fries",
+      "name": "Fries",
+      "items": [
+        {
+          "id": "classic-fries",
+          "name": "Classic Fries",
+          "price": 129
+        },
+        {
+          "id": "peri-peri-fries",
+          "name": "Peri Peri Fries",
+          "price": 149
+        },
+        {
+          "id": "cheesy-fries",
+          "name": "Cheesy Fries",
+          "price": 189
+        }
+      ]
+    },
+    {
+      "id": "bruschettas-and-garlic-bread",
+      "name": "Bruschettas & Garlic Bread",
+      "items": [
+        {
+          "id": "ultimate-cheesy-oval",
+          "name": "Ultimate Cheesy (Oval)",
+          "description": "Garlic, herbs and melted mozzarella stuffed in our signature bread.",
+          "price": 189
+        },
+        {
+          "id": "exotic-veggie-pocket-calzone",
+          "name": "Exotic Veggie Pocket (Calzone)",
+          "description": "Bell peppers, zucchini, olives and creamy cheese filling.",
+          "price": 249
+        },
+        {
+          "id": "fungi-delight",
+          "name": "Fungi Delight (2 Slices)",
+          "description": "Sauteed mushroom, garlic and herbs with a cheesy base.",
+          "price": 249
+        },
+        {
+          "id": "creamy-spinach-corn-bake",
+          "name": "Creamy Spinach & Corn Bake",
+          "description": "Sweet corn and spinach in a creamy garlic blend.",
+          "price": 249
+        },
+        {
+          "id": "tomato-basil-bruschetta",
+          "name": "Tomato Basil (2 Slices)",
+          "description": "Cherry tomato, basil, pesto sauce and olive oil.",
+          "price": 249
+        },
+        {
+          "id": "pesto-veggie-delight",
+          "name": "Pesto Veggie Delight (2 Slices)",
+          "description": "Pesto sauce, exotic vegetables and parmesan.",
+          "price": 249
+        },
+        {
+          "id": "avocado-delight",
+          "name": "Avocado Delight (2 Slices)",
+          "description": "Ripe avocado, cherry tomato, a squeeze of lemon juice and a drizzle of olive oil.",
+          "price": 289
+        },
+        {
+          "id": "bruschetta-platter",
+          "name": "Bruschetta Platter (5 Slices)",
+          "description": "A slice of each of our signature bruschetta.",
+          "price": 499
+        }
+      ]
+    },
+    {
+      "id": "artisanal-pastas",
+      "name": "Artisanal Pastas",
+      "items": [
+        {
+          "id": "classic-basil-pesto",
+          "name": "Classic Basil Pesto",
+          "description": "Spaghetti tossed in vibrant basil pesto with cherry tomato and parmesan.",
+          "price": 279
+        },
+        {
+          "id": "alfredo-supreme",
+          "name": "Alfredo Supreme",
+          "description": "Rich cream sauce with garden vegetables, finished with parmesan.",
+          "price": 279
+        },
+        {
+          "id": "arrabbiata-rosso",
+          "name": "Arrabbiata Rosso",
+          "description": "Zesty tomato sauce with Italian herbs and a hint of chilli.",
+          "price": 279
+        },
+        {
+          "id": "pink-sunset",
+          "name": "Pink Sunset (Mix Sauce)",
+          "description": "A fusion of white and red sauces, tossed with sauteed vegetables.",
+          "price": 249
+        },
+        {
+          "id": "creamy-button-mushroom",
+          "name": "Creamy Button Mushroom",
+          "description": "Exotic mushroom in a smooth, velvety white sauce.",
+          "price": 249
+        },
+        {
+          "id": "baked-four-cheese-mac",
+          "name": "Baked Four Cheese Mac",
+          "description": "Macaroni baked with rich cheese sauce, mozzarella and cheddar crust.",
+          "price": 249
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "name": "Sandwiches",
+      "notes": [
+        "Sandwiches are served with fries."
+      ],
+      "options": [
+        {
+          "name": "Choice of bread",
+          "values": [
+            "Multigrain",
+            "Sourdough"
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "classic-veggie-club",
+          "name": "The Classic Veggie Club",
+          "description": "Triple-layered freshness of cucumber, onion, tomato and iceberg lettuce, enriched with a smooth mushroom-spinach spread.",
+          "price": 229
+        },
+        {
+          "id": "mushroom-melt-delight",
+          "name": "Mushroom Melt Delight",
+          "description": "Seasoned mushroom grilled with melted cheese.",
+          "price": 249
+        },
+        {
+          "id": "tandoori-paneer-zing",
+          "name": "Tandoori Paneer Zing",
+          "description": "Smoky tandoori paneer with crispy vegetables and light dressing.",
+          "price": 269
+        },
+        {
+          "id": "creamed-spinach-corn",
+          "name": "Creamed Spinach & Corn",
+          "description": "Tender spinach and sweet corn folded into a light, velvety cream sauce.",
+          "price": 249
+        }
+      ]
+    },
+    {
+      "id": "bowls-and-sides",
+      "name": "Bowls & Sides",
+      "items": [
+        {
+          "id": "classic-loaded-nachos",
+          "name": "Classic Loaded Nachos",
+          "description": "Crispy tortilla chips layered with cheese, fresh salsa and sour cream.",
+          "price": 209
+        },
+        {
+          "id": "sauteed-vegetables",
+          "name": "Sauteed Vegetables",
+          "description": "A wholesome side of seasonal vegetables, lightly tossed in herbs.",
+          "price": 189
+        },
+        {
+          "id": "mexican-fiesta-bowl",
+          "name": "Mexican Fiesta Bowl",
+          "description": "Rice base topped with salsa, olives, jalapenos, tortilla strips and melted cheese.",
+          "price": 219
+        }
+      ]
+    },
+    {
+      "id": "woodfire-pizza",
+      "name": "Woodfire Pizza 10\"",
+      "notes": [
+        "Choose Neapolitan or thin crust."
+      ],
+      "options": [
+        {
+          "name": "Choice of crust",
+          "values": [
+            "Neapolitan",
+            "Thin crust"
+          ]
+        },
+        {
+          "name": "Add-ons",
+          "values": [
+            "Exotic vegetables +₹49",
+            "Cheese bomb +₹99"
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "napoli-classico",
+          "name": "Napoli Classico",
+          "description": "Tomato basil base with fresh mozzarella and basil.",
+          "price": 369
+        },
+        {
+          "id": "alfredo-bianco",
+          "name": "Alfredo Bianco",
+          "description": "Creamy Alfredo white sauce, sauteed mushrooms and spinach with mozzarella.",
+          "price": 399
+        },
+        {
+          "id": "paneer-tikka-flame",
+          "name": "Paneer Tikka Flame",
+          "description": "Tandoori-spiced paneer, onion and capsicum.",
+          "price": 429
+        },
+        {
+          "id": "spicy-paneer-jalapeno-heat",
+          "name": "Spicy Paneer Jalapeno Heat",
+          "description": "Fiery base topped with grilled paneer chunks, onion, capsicum and jalapeno, finished with melted mozzarella.",
+          "price": 449
+        },
+        {
+          "id": "fresh-paprika-corn-delight",
+          "name": "Fresh Paprika Corn Delight",
+          "description": "Tangy tomato base topped with fresh paprika, sweet corn, baby corn and mozzarella.",
+          "price": 429
+        },
+        {
+          "id": "garden-fresh-supreme",
+          "name": "Garden Fresh Supreme",
+          "description": "Loaded with fresh seasonal vegetables, bell peppers, olives, corn, broccoli, paprika and onions.",
+          "price": 449
+        },
+        {
+          "id": "wild-fungi-pesto",
+          "name": "Wild Fungi Pesto",
+          "description": "Pesto base topped with exotic mushrooms, olives, sun-dried tomatoes and garlic.",
+          "price": 399
+        },
+        {
+          "id": "mediterrano",
+          "name": "Mediterrano",
+          "description": "Herb-infused tomato sauce, seasonal vegetables, feta and mozzarella bocconcini.",
+          "price": 499
+        },
+        {
+          "id": "crea-la-tua-pizza",
+          "name": "Crea La Tua Pizza (Make Your Own Pizza)",
+          "description": "Create your own masterpiece by choosing any five ingredients.",
+          "price": 469
+        }
+      ]
+    },
+    {
+      "id": "signature-wraps",
+      "name": "Signature Wraps",
+      "notes": [
+        "Wraps are served with fries."
+      ],
+      "items": [
+        {
+          "id": "smoked-chipotle-mushroom-wrap",
+          "name": "Smoked Chipotle Mushroom Wrap",
+          "description": "Sauteed mushroom and vegetables drizzled with smoky chipotle sauce, rolled in a soft tortilla.",
+          "price": 169
+        },
+        {
+          "id": "peri-peri-paneer-wrap",
+          "name": "Peri Peri Paneer Wrap",
+          "description": "Fiery peri peri paneer chunks with bell peppers.",
+          "price": 189
+        },
+        {
+          "id": "exotic-greens-wrap",
+          "name": "Exotic Greens Wrap",
+          "description": "A light mix of premium exotic vegetables dressed in pesto spread.",
+          "price": 169
+        },
+        {
+          "id": "ultimate-cheese-bomb-wrap",
+          "name": "The Ultimate Cheese Bomb",
+          "description": "Crispy cheese patty, gooey cheese dip and BBQ drizzle.",
+          "price": 189
+        }
+      ]
+    },
+    {
+      "id": "signature-refreshers",
+      "name": "Signature Refreshers",
+      "items": [
+        {
+          "id": "electric-blue-lagoon",
+          "name": "Electric Blue Lagoon",
+          "price": 129
+        },
+        {
+          "id": "original-mint-smash",
+          "name": "The Original Mint Smash",
+          "price": 119
+        },
+        {
+          "id": "cranberry-zest",
+          "name": "Cranberry Zest",
+          "price": 149
+        },
+        {
+          "id": "ruby-red-refresher",
+          "name": "Ruby Red Refresher",
+          "price": 149
+        },
+        {
+          "id": "masala-coke",
+          "name": "Masala Coke",
+          "price": 99
+        },
+        {
+          "id": "beverage-can",
+          "name": "Beverage Can",
+          "price": null,
+          "priceLabel": "As per MRP"
+        }
+      ]
+    }
+  ]
+}

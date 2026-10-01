@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Test and coverage output
+coverage/
+playwright-report/
+test-results/
+.nyc_output/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Deployment and framework caches
+.vercel/
+.turbo/
+.swc/
+
+# TypeScript-generated files
+*.tsbuildinfo
+next-env.d.ts
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Local AI/design tooling state
+.agents/
+.codex/
+.impeccable/
+skills-lock.json
+
+# Local certificates and keys
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
